@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartdalidate",
+        "uuid": 5656749,
+        "checksum": "fp9mgg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
